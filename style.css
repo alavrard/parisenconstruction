@@ -1,0 +1,13 @@
+.container {
+	width: 70%;
+	min-width: 600px;
+	margin: 20px auto 20px auto;
+	font-family: sans-serif;
+	font-size: 14px;
+}
+li {
+	margin-top: 5px;
+}
+a {
+	text-decoration: none;
+}
