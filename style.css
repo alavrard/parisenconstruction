@@ -11,3 +11,11 @@ li {
 a {
 	text-decoration: none;
 }
+.disclaimer {
+	border: 3px dashed black;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+h2 {
+	margin-bottom: 40px;
+}
